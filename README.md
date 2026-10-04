@@ -1,0 +1,1 @@
+# ESP32-Temperature-Sensing-with-NTC-22D-9-Power-Thermistor
